@@ -46,7 +46,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 ## Featured Project
 
-<div align="center">
+<div align="left">
 
 ### [secure-examination-system](https://github.com/h-hiram/secure-examination-system)
 
@@ -65,7 +65,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 ## Currently Exploring
 
-<div align="center">
+<div align="left">
 
 - Cybersecurity & information systems security
 - Machine Learning & AI
@@ -75,13 +75,6 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <br>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=h-hiram&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
 
 <br>
 
