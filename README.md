@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00ff41,50:baffc9,65:00ff41,100:0d1117&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&gradientDirection=toRight" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+products;React+%2B+TypeScript+Developer;Full-Stack+Engineer;Problem+Solver" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+products;React+%2B+TypeScript+Developer;Full-Stack+Engineer;Always+learning%2C+always+building" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I build complete applications across the stack, creating smooth interfaces with **React** and **TypeScript** while developing robust backends with **Python**, **Flask**, and **Laravel**.
+I'm a **Fullstack Developer** based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I build complete applications across the stack, creating smart interfaces and robust backend systems.
 
 I'm passionate about writing code that solves real problems. I enjoy taking an idea from concept to working product, designing clean usable interfaces and building solid backends to support them.
 
@@ -62,11 +62,29 @@ Explore my other work by checking the pinned repos and my full repo list on GitH
 
 <br/>
 
-## Currently Learning
+## Currently Learning & Growing
 
 <div align="center">
 
-I'm actively building my skills in **Cybersecurity**, **Information Systems Security**, **Machine Learning**, and **Cloud Deployments**. Always working on something new to grow across these areas.
+### 🔐 **Cybersecurity & InfoSec**
+- Secure coding practices and vulnerability assessment
+- Network security fundamentals
+- Penetration testing basics
+
+### 🤖 **Machine Learning & AI**
+- Model development with Python (scikit-learn, TensorFlow)
+- Data analysis and visualization
+- Real-world ML applications
+
+### ☁️ **Cloud Deployments**
+- Docker containerization
+- Cloud platforms (AWS, Google Cloud)
+- CI/CD pipelines and DevOps practices
+
+### 📊 **Advanced Backend Development**
+- Microservices architecture
+- API optimization and scaling
+- Database performance tuning
 
 </div>
 
@@ -90,6 +108,6 @@ I'm actively building my skills in **Cybersecurity**, **Information Systems Secu
 
 Thanks for visiting my profile. Let's connect and build something great together.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00ff41,50:baffc9,65:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
