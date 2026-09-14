@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer&descAlignY=52&descSize=20&descColor=000000" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+products;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Security-focused+backend+logic;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,9 +12,9 @@
 
 I'm a **Fullstack Developer** based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend, and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
 
-I'm genuinely **passionate** about writing code that solves real problems — I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with solid, **security-focused** logic. I care about building things that not only work well, but hold up against misuse.
+I'm genuinely passionate about writing code that solves real problems — I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with solid, **security-focused** logic. I care about building things that not only work well, but hold up against misuse.
 
-I'm currently sharpening my skills in **Laravel** and always looking for the next problem worth solving. Feel free to explore my repositories below, or reach out through any of the links at the end of this page.
+Feel free to explore my repositories below, or reach out through any of the links at the end of this page.
 
 <br>
 
@@ -44,9 +44,11 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <br>
 
-## Featured Project
+## Featured Project & GitHub Activity
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [secure-examination-system](https://github.com/h-hiram/secure-examination-system)
 
@@ -54,29 +56,24 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 [![Repo](https://img.shields.io/badge/View-Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h-hiram/secure-examination-system)
 
-**Explore my other work from here — check the pinned repos and my full repo list on GitHub.**
+Explore my other work from here — check the pinned repos and my full repo list on GitHub.
 
-</div>
+</td>
+<td width="50%" valign="top" align="center">
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h-hiram&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiram&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-## Currently Exploring
+## Currently Learning
 
 <div align="center">
 
-I'm actively deepening my **Laravel** expertise and expanding what I can do with **machine learning models** in Python — always building something new to grow both skill sets.
+I'm actively building my skills in **Cybersecurity**, **Information Systems Security**, **Machine Learning**, and **Cloud Deployments** — always working on something new to grow across these areas.
 
 </div>
 
