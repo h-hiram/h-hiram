@@ -1,174 +1,106 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%" alt="Hiram Mwangi profile header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%2B+Next.js+%7C+Node.js;Python+%7C+FastAPI+%7C+Laravel;Building+Practical+Software+Solutions;JKUAT+Graduate" alt="Typing SVG"/>
-</a>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Hiram%20Mwangi&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/h-hiram">
-  <img src="https://komarev.com/ghpvc/?username=h-hiram&label=Profile%20Views&color=00ff41&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GitHub-h--hiram-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/hiram-mwangi-99a583336">
+  <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Mwangi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mk.hiramwangi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mk.hiramwangi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+practical+web+applications;React+%2B+Next.js+%2B+Node.js+%2B+Python;Currently+leveling+up+Laravel+%F0%9F%9A%80" alt="Typing SVG"/>
+
 </div>
 
-<br>
+<br/>
 
-## whoami
+## About Me
 
-I'm Hiram Mwangi, a Full-Stack Developer based in Nairobi, Kenya, and a graduate of Jomo Kenyatta University of Agriculture and Technology (JKUAT), where I studied Business Computing.
+I'm a Full-Stack Developer based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**, where I studied Business Computing.
 
-I build web applications that solve practical problems. My work spans frontend development with React and Next.js, backend development with Node.js and Python, and database management with MySQL and PostgreSQL.
+I build web applications that solve practical problems — frontend with React and Next.js, backend with Node.js and Python, and relational databases like MySQL and PostgreSQL. I also have a strong interest in cybersecurity and secure software development, with a focus on systems that handle user data and business processes responsibly.
 
-I enjoy turning ideas into working products, debugging technical issues, and improving the reliability and usability of applications. I'm also interested in secure software development and building systems that handle user data responsibly.
+Right now I'm strengthening my Laravel skills while working on personal projects and exploring new opportunities in software development and IT.
 
-I'm currently strengthening my Laravel skills while working on personal projects and exploring opportunities in software development, backend engineering, and IT.
+```python
+class Hiram:
+    name = "Hiram Mwangi"
+    location = "Nairobi, Kenya"
+    education = "BSc Business Computing, JKUAT"
+    focus = ["Full-Stack Development", "Backend Development", "Secure Software"]
 
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────┐
-│                 SYSTEM PROFILE               │
-├──────────────────────────────────────────────┤
-│  USER       : Hiram Mwangi                   │
-│  LOCATION   : Nairobi, Kenya                 │
-│  EDUCATION  : BSc Business Computing         │
-│  UNIVERSITY : JKUAT                          │
-│  STATUS     : Graduate                       │
-│  FOCUS      : Full-Stack Development         │
-└──────────────────────────────────────────────┘
+    def currently_learning(self):
+        return ["Laravel", "Backend Architecture", "Software Security"]
 ```
 
-</div>
-
-<br>
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,flask,laravel,php,html,css,postgres,mysql,git,github,vscode,linux&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Node.js, Python, FastAPI, Flask, Laravel, PHP, HTML, CSS, PostgreSQL, MySQL, Git, GitHub, VS Code, and Linux"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff41" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=00ff41" alt="Next.js"/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff41" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff41" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=00ff41" alt="Laravel"/>
-<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00ff41" alt="PHP"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,flask,laravel,php,html,css,mysql,postgres,git,github,linux,vscode" alt="Tech stack icons"/>
 
 </div>
 
-<br>
+<br/>
 
 ## Featured Project
 
 <div align="center">
 
-<a href="https://github.com/h-hiram/secure-examination-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=h-hiram&repo=secure-examination-system&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&cache_seconds=86400" alt="Secure Examination System repository card"/>
-</a>
+### 🔒 [Secure Examination System](https://github.com/h-hiram/secure-examination-system)
+
+A secure online examination platform built for reliable exam delivery and rule-based integrity monitoring — covering exam management, controlled access, session-violation monitoring, and result handling.
 
 </div>
 
-A secure online examination platform designed to support reliable exam delivery and rule-based integrity monitoring.
-
-The project focuses on controlled exam access, examination management, session monitoring, violation logging, and result handling.
-
-<div align="center">
-
-<a href="https://github.com/h-hiram/secure-examination-system">
-  <img src="https://img.shields.io/badge/View%20Repository-00ff41?style=for-the-badge&logo=github&logoColor=0d1117" alt="View Secure Examination System repository"/>
-</a>
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/h-hiram">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=h-hiram&show_icons=true&include_all_commits=true&count_private=false&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&cache_seconds=86400" alt="Hiram's GitHub statistics"/>
-</a>
-
-<a href="https://github.com/h-hiram">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiram&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&cache_seconds=86400" alt="Hiram's most used programming languages"/>
-</a>
-
-</div>
-
-<br>
+<br/>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=false&custom_title=Hiram%27s%20Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%" alt="Hiram's GitHub activity graph"/>
 
 </div>
 
-<br>
+<br/>
 
-## Currently Exploring
+## Currently Learning
 
-<div align="center">
+- Laravel and PHP application development
+- Backend architecture and API development
+- Secure software development practices
+- Building and improving full-stack applications
 
-I'm strengthening my Laravel and PHP development skills, improving backend architecture, and building practical full-stack applications. I'm also continuing to learn about secure software development and reliable application design.
-
-</div>
-
-<br>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=h-hiram&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub profile trophies"/>
-
-</div>
-
-<br>
+<br/>
 
 ## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hiram-mwangi-99a583336">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:mk.hiramwangi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="Email"/>
-</a>
-<a href="https://github.com/h-hiram">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://instagram.com/m._.hiram">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://tiktok.com/@404._h">
-  <img src="https://img.shields.io/badge/TikTok-0d1117?style=for-the-badge&logo=tiktok&logoColor=00ff41" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%" alt="Profile footer"/>
-
+<sub>Thanks for visiting my profile.</sub>
 </div>
