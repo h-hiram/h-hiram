@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
 </a>
 
 </div>
@@ -67,8 +67,6 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=h-hiram&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiram&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" />
 
 </div>
 
