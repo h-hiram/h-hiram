@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Turning+ideas+into+working+code;JKUAT+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,17 +12,17 @@
 
 I'm a **Fullstack Developer** based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend, and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
 
-I enjoy taking an idea from a rough concept all the way to a working product — designing clean, usable interfaces and backing them with solid, **security-focused** logic. I care about building things that not only work well, but hold up against misuse.
+I'm genuinely **passionate** about writing code that solves real problems — I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with solid, **security-focused** logic. I care about building things that not only work well, but hold up against misuse.
 
 I'm currently sharpening my skills in **Laravel** and always looking for the next problem worth solving. Feel free to explore my repositories below, or reach out through any of the links at the end of this page.
 
 <br>
 
-## 📡 tech_stack --list
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,flask,laravel,py,php,html,css,mysql,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,flask,laravel,py,php,html,css,postgres,mysql,git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -36,6 +36,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
 
@@ -43,36 +44,47 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <br>
 
-## 🚀 featured_project --open
+## Featured Project
 
 <div align="center">
 
-### 🔐 [secure-exam-system](https://github.com/h-hiram/secure-exam-system)
+### [secure-examination-system](https://github.com/h-hiram/secure-examination-system)
 
-*A secure online examination platform built to protect exam integrity from end to end.*
+*An online examination platform built with a strong focus on reliability and secure exam delivery, from user authentication through to result handling.*
 
-[![Repo](https://img.shields.io/badge/View-Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h-hiram/secure-exam-system)
+[![Repo](https://img.shields.io/badge/View-Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h-hiram/secure-examination-system)
 
-**👉 Explore my other work from here — check the pinned repos and my full repo list on GitHub.**
+**Explore my other work from here — check the pinned repos and my full repo list on GitHub.**
 
 </div>
 
 <br>
 
-## 📊 stats --verbose
+## GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=h-hiram&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=h-hiram&theme=github-dark-blue&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiram&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" />
 
 </div>
 
 <br>
 
-## 🏆 trophies --unlocked
+## Currently Exploring
+
+<div align="center">
+
+I'm actively deepening my **Laravel** expertise and expanding what I can do with **machine learning models** in Python — always building something new to grow both skill sets.
+
+</div>
+
+<br>
+
+## Trophies
 
 <div align="center">
 
@@ -82,7 +94,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <br>
 
-## 📡 connect --socials
+## Connect
 
 <div align="center">
 
@@ -98,12 +110,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <div align="center">
 
-```bash
-hiram@dev:~$ echo "Thanks for stopping by. Let's build something."
-> Thanks for stopping by. Let's build something.
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=h-hiram&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
+Thanks for visiting my profile — let's connect and build something great together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
