@@ -10,11 +10,11 @@
 
 <br>
 
-I'm a **Fullstack Developer** based in Nairobi, Kenya, and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend, and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
+I'm a **Fullstack Developer** based in Nairobi, Kenya and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
 
-I'm genuinely **passionate** about writing code that solves real problems — I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with solid, **security-focused** logic. I care about building things that not only work well, but hold up against misuse.
+I'm genuinely **passionate** about writing code that solves real problems I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with a solid **security focused** logic. 
 
-I'm currently sharpening my skills in **Laravel** and always looking for the next problem worth solving. Feel free to explore my repositories below, or reach out through any of the links at the end of this page.
+I'm currently sharpening my skills in **Laravel** and always looking for the next problem worth solving. Feel free to explore my repositories or reach out through any of the links at the end of this page.
 
 <br>
 
@@ -54,21 +54,12 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 [![Repo](https://img.shields.io/badge/View-Repository-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/h-hiram/secure-examination-system)
 
-**Explore my other work from here — check the pinned repos and my full repo list on GitHub.**
+**Explore my other work from here.**
 
 </div>
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=h-hiram&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-hiram&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-</div>
 
 <br>
 
@@ -76,7 +67,9 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 
 <div align="center">
 
-I'm actively deepening my **Laravel** expertise and expanding what I can do with **machine learning models** in Python — always building something new to grow both skill sets.
+- Cybersecurity & information systems security
+- Machine Learning & AI
+- Cloud deployments and DevOps
 
 </div>
 
@@ -108,7 +101,7 @@ I'm actively deepening my **Laravel** expertise and expanding what I can do with
 
 <div align="center">
 
-Thanks for visiting my profile — let's connect and build something great together.
+Thanks for visiting my profile, let's connect and build something great together.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
