@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer&descAlignY=52&descSize=20&descColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00ff41,50:baffc9,65:00ff41,100:0d1117&height=200&section=header&text=Hiram%20Mwangi&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=32&desc=Fullstack%20Developer&descAlignY=52&descSize=20&descColor=000000" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Building+ideas+into+working+products;React+%2B+TypeScript+%7C+Flask+%7C+Laravel;Security-focused+backend+logic;Python+%26+Machine+Learning;JKUAT+Graduate" alt="Typing SVG" />
@@ -44,7 +44,7 @@ Feel free to explore my repositories below, or reach out through any of the link
 
 <br>
 
-## Featured Project & GitHub Activity
+## Featured Project & GitHub Contributions
 
 <table>
 <tr>
@@ -61,7 +61,9 @@ Explore my other work from here — check the pinned repos and my full repo list
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-hiram&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<a href="https://github.com/h-hiram">
+  <img src="https://ghchart.rshah.org/00ff41/h-hiram" width="100%" alt="Hiram's GitHub contribution graph"/>
+</a>
 
 </td>
 </tr>
@@ -74,16 +76,6 @@ Explore my other work from here — check the pinned repos and my full repo list
 <div align="center">
 
 I'm actively building my skills in **Cybersecurity**, **Information Systems Security**, **Machine Learning**, and **Cloud Deployments** — always working on something new to grow across these areas.
-
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=h-hiram&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -107,6 +99,6 @@ I'm actively building my skills in **Cybersecurity**, **Information Systems Secu
 
 Thanks for visiting my profile — let's connect and build something great together.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:00ff41,50:baffc9,65:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
