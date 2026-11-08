@@ -10,7 +10,7 @@
 
 <br>
 
-I'm a **Fullstack Developer** based in Nairobi, Kenya and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
+I am a **Fullstack Developer** based in Nairobi, Kenya and a graduate of **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I work across the stack, building interfaces with **React** and **TypeScript** on the frontend and powering them with **Flask** and **Laravel** on the backend. I'm also skilled in **Python**, which I use for building **machine learning models** alongside my web development work.
 
 I'm genuinely **passionate** about writing code that solves real problems I enjoy taking an idea from a rough concept all the way to a working product, designing clean, usable interfaces and backing them with a solid **security focused** logic. 
 
