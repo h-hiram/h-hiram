@@ -70,7 +70,7 @@ I'm currently sharpening my skills in **Laravel** and always looking for the nex
 - Cybersecurity & information systems security
 - Machine Learning & AI
 - Cloud deployments and DevOps
-
+- Building automation tools using python
 </div>
 
 <br>
